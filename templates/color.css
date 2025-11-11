@@ -1,0 +1,62 @@
+
+/* color.css */
+
+#main-text-content p a:link{
+    color: #4E4D5B;
+}
+#main-text-content p  a:visited{
+    color: #4E4D5B;
+}
+#main-text-content p a:hover{
+	color: #D60808;
+}
+
+
+#main-text-content ul li a:link{
+    color: #4E4D5B;
+}
+#main-text-content ul li  a:visited{
+    color: #4E4D5B;
+}
+#main-text-content ul li a:hover{
+	color: #D60808;
+}
+
+
+#menu ul li a:link{
+	color: #0000FF;
+}
+#menu ul li a:visited{
+	color: #0000FF;
+}
+#menu ul li a:hover{
+	color: #0000A0;
+}
+
+#tabnavigation ul li a{
+    color: #ddd;
+}
+
+#tabnavigation ul li a:hover {
+    color: #8470FF;
+}
+
+#exp-left-position a:link{
+    color: #4E4D5B;
+}
+#exp-left-position a:visited{
+    color: #4E4D5B;
+}
+#exp-left-position a:hover{
+	color: #D60808;
+}
+
+#edu-style a:link{
+    color: #4E4D5B;
+}
+#edu-style a:visited{
+    color: #4E4D5B;
+}
+#edu-style a:hover{
+	color: #D60808;
+}
